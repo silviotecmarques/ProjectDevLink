@@ -1,2 +1,1 @@
-# ProjectDevLin
-Primeiros passos com HTML, CSS e JavaScript
+# Primeiros passos com HTML, CSS e JavaScript
